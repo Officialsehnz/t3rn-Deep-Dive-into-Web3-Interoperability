@@ -1,3 +1,9 @@
+**Author:** \[Sehnz]
+**Date:** June 2025
+
+* [Twitter:] (https://x.com/tradewithsehnz)
+* [Discord:] @officialsehnz
+
 
 # 🔗 t3rn – Deep Dive into Web3 Interoperability
 
