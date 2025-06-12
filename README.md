@@ -7,7 +7,7 @@
 
 ## 📚 Table of Contents
 
-1. [Overview](#overview)  
+1. [Overview](##overview)  
 2. [Technology Stack](#technology-stack)  
 3. [Consensus Mechanism](#consensus-mechanism)  
 4. [The Problem t3rn Solves](#the-problem-t3rn-solves)  
